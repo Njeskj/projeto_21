@@ -9,126 +9,11 @@
     color: #263138;
   }
   
-  /* Cabeçalho */
-  header {
-    background-color: #FF9A6C;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
-    padding-left: 80px;
-    padding-right: 80px;
-  }
-  
-  header a {
-    color: #FFFFFF;
-    font-weight: 600;
-    padding: 0 32px;
-    text-decoration: none;
-  }
-
-
-  
 
 
 
 
-
-
-  /* Seção inicial */
-#inicio {
-    display: flex;
-    align-items: center;
-    gap: 32px;
-    padding: 24px 80px 128px 80px;
-    position: relative;
-  }
-    
-  .button {
-    background-color: #CC1100;
-    border-radius: 8px;
-    color: #FFFFFF;
-    padding: 16px 32px;
-    text-decoration: none;
-  }
-  
-  .button-transparent {
-    background-color: transparent;
-    color: #CC1100;
-    padding: 16px 32px;
-    text-underline-offset: 4px;
-  }
-  
-  .absolute {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    z-index: -10;
-  }
-
-
-
-
-
-
-
-
-
-/* Seção clínica */
-/* #clinica {
-    display: flex;
-    align-items: center;
-    gap: 64px;
-    padding: 64px 80px;
-  }
-  
-  #clinica li {
-    margin-bottom: 16px;
-    margin-left: 32px;
-  } */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  /* Seção petshop e farmácia */
-/* #farmacia {
-    padding: 64px 80px;
-    text-align: center;
-  }
-  
-  #farmacia img {
-    margin: 64px auto;
-  }
-  
-  #farmacia .paragrafo {
-    max-width: 950px;
-    margin: 0 auto;
-  } */
-
-
-
-
-
-
-
-
-  /* Seção dúvidas frequentes */
+/* Seção Itens Pedido */
 .itens-pedido-h2 {
   text-align: center;
   color: #FFFFFF;
@@ -147,11 +32,11 @@
     padding: 64px 80px;
   }
   
-  .item {
+.item {
     position: relative;
   }
   
-  .item strong {
+.item strong {
     border: 2px solid #CC1100;
     border-radius: 8px;
     cursor: pointer;
@@ -159,13 +44,7 @@
     padding: 24px;
   }
   
-  /* .duvida img {
-    position: absolute;
-    top: 32px;
-    right: 24px;
-  } */
-
-  .item h3 {
+.item h3 {
     border: 1px solid #CC1100;
     border-radius: 5px 5px 5px 5px;
     padding: 20px;
@@ -173,7 +52,7 @@
     color: #FFFFFF;
   }
   
-  .item .paragrafo {
+.item .paragrafo {
     border-right: 1px solid #CC1100;
     border-bottom: 1px solid #CC1100;
     border-left: 1px solid #CC1100;
@@ -188,20 +67,13 @@
     margin-bottom: 5px;
   }
 
-  .item.ativa .paragrafo {
+.item.ativa .paragrafo {
     height: fit-content;
     opacity: 1;
     padding: 24px;
   }
 
-
-
-
-
-
-  
-
-  .product-item {
+.product-item {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -216,7 +88,7 @@
 
 
 
-
+/* Seção Adcionar Item Carrinho */
 .add-to-cart {
     background-color: #CC1100;
     color: #fff;
@@ -249,7 +121,7 @@
 
 
 
-
+/* Seção Carrinho */
 #carrinho {
   align-items: start;
   gap: 64px;
@@ -273,46 +145,3 @@
 
 
 
-  /* Rodapé */
-/* footer {
-    background-color: rgba(255, 152, 108, 0.25);
-    display: flex;
-    justify-content: space-between;
-    gap: 80px;
-    padding: 64px 80px;
-  }
-  
-  footer img,
-  footer .titulo {
-    display: block;
-    font-weight: 600;
-    margin-bottom: 24px;
-  }
-  
-  footer nav a {
-    color: #263138;
-    display: block;
-    margin-bottom: 16px;
-    text-decoration: none;
-  }
-  
-  footer p {
-    margin-bottom: 16px;
-    max-width: 350px;
-  }
-  
-  footer p a {
-    color: #263138;
-    text-decoration: none;
-  }
-  
-  #copyright {
-    background-color: #263138;
-    color: #FFFFFF;
-    padding: 24px;
-    text-align: center;
-  }
-  
-  #copyright a {
-    color: #FF9A6C;
-  } */

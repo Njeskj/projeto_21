@@ -32,18 +32,38 @@
                 <div class='produto-item'>
                     <ul id="product-list-11">
                         <li data-id="101" class="product-item">
-                            <span class="product-name">Produto 1</span>
-                            <span class="product-price">R$ 10.00</span>
+                            <span class="product-name">1/2 Mista M</span>
+                            <span class="product-price">R$ 5.00</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                         <li data-id="102" class="product-item">
-                            <span class="product-name">Produto 2</span>
-                            <span class="product-price">R$ 15.00</span>
+                            <span class="product-name">1/2 Calamista M</span>
+                            <span class="product-price">R$ 5.00</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                         <li data-id="103" class="product-item">
-                            <span class="product-name">Produto 3</span>
-                            <span class="product-price">R$ 20.00</span>
+                            <span class="product-name">1/2 Calabresa M</span>
+                            <span class="product-price">R$ 5.00</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="104" class="product-item">
+                            <span class="product-name">1/2 Mussarela M</span>
+                            <span class="product-price">R$ 5.00</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="105" class="product-item">
+                            <span class="product-name">1/2 3 Queijos M</span>
+                            <span class="product-price">R$ 5.75</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="106" class="product-item">
+                            <span class="product-name">1/2 Frango M</span>
+                            <span class="product-price">R$ 5.75</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="107" class="product-item">
+                            <span class="product-name">1/2 Moda da Casa M</span>
+                            <span class="product-price">R$ 8.75</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                     </ul>
@@ -58,20 +78,40 @@
             <h3><i class="fa-solid fa-square-caret-down"></i> Pizzas G (Meio a Meio)</h3>
             <div class='paragrafo'>
                 <div class='produto-item'>
-                    <ul id="product-list-12">
+                    <ul id="product-list-11">
                         <li data-id="151" class="product-item">
-                            <span class="product-name">Produto 1</span>
-                            <span class="product-price">R$ 10.00</span>
+                            <span class="product-name">1/2 Mista</span>
+                            <span class="product-price">R$ 5.00</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                         <li data-id="152" class="product-item">
-                            <span class="product-name">Produto 2</span>
-                            <span class="product-price">R$ 15.00</span>
+                            <span class="product-name">1/2 Calamista G</span>
+                            <span class="product-price">R$ 5.00</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                         <li data-id="153" class="product-item">
-                            <span class="product-name">Produto 3</span>
-                            <span class="product-price">R$ 20.00</span>
+                            <span class="product-name">1/2 Calabresa G</span>
+                            <span class="product-price">R$ 5.00</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="154" class="product-item">
+                            <span class="product-name">1/2 Mussarela G</span>
+                            <span class="product-price">R$ 5.00</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="155" class="product-item">
+                            <span class="product-name">1/2 3 Queijos G</span>
+                            <span class="product-price">R$ 5.75</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="156" class="product-item">
+                            <span class="product-name">1/2 Frango G</span>
+                            <span class="product-price">R$ 5.75</span>
+                            <button class="add-to-cart">Adicionar ao Carrinho</button>
+                        </li>
+                        <li data-id="157" class="product-item">
+                            <span class="product-name">1/2 Moda da Casa G</span>
+                            <span class="product-price">R$ 8.75</span>
                             <button class="add-to-cart">Adicionar ao Carrinho</button>
                         </li>
                     </ul>
